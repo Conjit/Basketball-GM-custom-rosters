@@ -1,4 +1,4 @@
-# Basketball-GM-custom-roster
+# Basketball-GM-All-Time-roster
 Custom Roster for BBGM
 
 Where did these ratings come from?
