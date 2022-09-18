@@ -15,6 +15,7 @@ This roster is has all of the current info and history of every NBA team current
 
 Top 10 Three Point Ratings
 1. Stephen Curry 
+
 Top 10 Mid Range Ratings
 
 Top 10 Inside Scoring
