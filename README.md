@@ -10,5 +10,6 @@ These rosters contain the bester players from every team
 Why are all the players at age 0? Why do all the players have a large contract?
 The players are at age 0 so you can maximize the time you can play with them and they have large contracts so they won't leave during the offseason because they can't trade
 
-# NBA Wiki
-Atlanta Hawks: 
+# Basketball-GM-Current-Rosters
+Version 1
+Nerfed and Buffed all players
