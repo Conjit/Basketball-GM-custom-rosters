@@ -13,3 +13,4 @@ The players are at age 0 so you can maximize the time you can play with them and
 # Basketball-GM-Current-Rosters
 Version 1
 Nerfed and Buffed all players
+Next roster updated FEB. 23
