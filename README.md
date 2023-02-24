@@ -14,3 +14,8 @@ The players are at age 0 so you can maximize the time you can play with them and
 Version 1
 Nerfed and Buffed all players
 Next roster updated FEB. 23
+
+Version 1.1
+Moved Russell Westbrook to the Los Angeles Clippers on a 1 year 1.05 million dollar deal
+Moved Kevin Love to the Miami Heat on a 3 year 3.1 million dollar deal
+Changed Max Amount of Players to 15
